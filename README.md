@@ -51,4 +51,5 @@ Welcome to the repository for the Electrical Engineering Technology program at H
 - **Power Distribution, Protection, and Control**
 - **Variable Frequency Drives and Motor Controls**
 - **Applied Statistics**
-- **Introduction to Politics, People, Money, and Markets**
+- **Introduction to Politics**
+- **People, Money, and Markets**
