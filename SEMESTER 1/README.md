@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains materials from my first semester courses in the Electrical Engineering Technology program at Humber College.
+Semester 1 was, for me, the most enjoyable and rewarding semester. I deeply appreciated the blend of practical and theoretical aspects in each of the six courses. The hands-on labs and detailed lectures not only enhanced my understanding but also fueled my passion for electrical engineering technology. This immersive experience solidified my commitment to the field and laid a strong foundation for my future studies.
 
 ## Courses
 
